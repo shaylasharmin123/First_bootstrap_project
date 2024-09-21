@@ -1,0 +1,33 @@
+.text{
+	font-size: 50px;
+	color: red;
+}
+.text2{
+	font-size: 50px;
+	color: yellow;
+}
+.box{
+	width: 500px;
+	height: 400px;
+	font-size: 30PX;
+	text-align: center;
+	background-color: red;
+}
+.img{
+	padding-bottom: 50px;
+}
+.container1{
+	margin-left: 0;
+	width: 90%;
+	margin: 0 auto;
+	overflow: hidden;
+	border: 2px solid;
+	box-sizing: border-box;
+}
+.img_item1{
+	width: 25%;
+	float: left;
+}
+.img img{
+	width: 100%;
+}
